@@ -1,0 +1,1 @@
+Ці networks здатні до self-learning, тобто покращують свої результати після обробки великих обсягів data. Нейронні мережі застосовуються в багатьох галузях, зокрема в computer vision, natural language processing (NLP) та medical diagnostics. Їхній розвиток сприяє створенню autonomous systems і покращенню точності predictions.
